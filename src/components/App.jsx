@@ -60,7 +60,7 @@ export default class App extends Component {
                   <div className="max-w-6xl px-4 mx-auto md:px-16 xl:px-10">
                       <div className="flex flex-col items-start lg:flex-row">
                           <div
-                              className="flex flex-col items-start justify-center w-full h-full pr-8 mb-5 lg:mb-0 lg:w-1/2 lg:sticky lg:top-4">
+                              className="flex flex-col items-start justify-center w-full h-full pr-8 mb-5 lg:mb-0 lg:w-1/2 lg:sticky lg:top-16">
                               <h2 className="text-4xl font-extrabold leading-10 tracking-tight text-gray-900 sm:text-5xl sm:leading-none md:text-6xl lg:text-5xl xl:text-6xl">secubu's
                                   commission queue</h2>
                               <p id="last-update" className="mt-6 text-sm text-gray-600"></p>
